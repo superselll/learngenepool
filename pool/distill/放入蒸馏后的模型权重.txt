@@ -1,0 +1,7 @@
+训练learngenepool12:
+deit_base_patch16_224-deit_base6_patch16_224.ckpt
+deit_base_patch16_224-deit_tiny6_patch16_224.ckpt
+or
+训练learngenepool18:
+deit_base_patch16_224-deit_base9_patch16_224.ckpt
+deit_base_patch16_224-deit_tiny9_patch16_224.ckpt
