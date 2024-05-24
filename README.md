@@ -58,7 +58,7 @@ python eval.py --blk_length 9 \
                --data-path YOUR DATA PATH
 ```
 
-## Building the learngene pool with 18 instances
+## Building the learngene pool with 12 instances
 1. Training the auxiliary models with 9 blocks.
 ```python
 python distill.py --batch-size 256 \
